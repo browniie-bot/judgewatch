@@ -151,9 +151,9 @@ above, not from a measured run.
 
 ## Part of evalstack
 
-[evalstack](https://github.com/mohammadi-hadi/evalstack) is the map of these
-eleven evaluation tools: what each one measures, what it found on real data,
-and the two chains that run end to end.
+[evalstack](https://github.com/mohammadi-hadi/evalstack) maps the eleven
+evaluation libraries this probe set sits beside: what each one measures, what
+it found on real data, and the two chains that run end to end.
 
 ## Citing
 
